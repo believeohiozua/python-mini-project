@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode
+Untitled1.ipynb
+.DS_Store 
+/.DS_Store 
+src/.DS_Store
